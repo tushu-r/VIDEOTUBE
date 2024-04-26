@@ -2,4 +2,4 @@
 
 ![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - 
